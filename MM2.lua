@@ -88,7 +88,7 @@ local textLabel = Instance.new("TextLabel")
 textLabel.Size = UDim2.new(1, 0, 0.18, 0)
 textLabel.Position = UDim2.new(0, 0, 0.02, 0)
 textLabel.BackgroundTransparency = 1
-textLabel.Text = "🎃 Weapon Generator 🕷️"
+textLabel.Text = "🎃 Goldys generate 🕷️"
 textLabel.TextSize = 28
 textLabel.Font = Enum.Font.GothamBold
 textLabel.TextScaled = true
@@ -221,7 +221,7 @@ local itemList = {
     XenoShot = "XenoGun",
     XenoKnife = "XenoKnife",
     RayGun = "RayGun",
-    AlienBeam = "AlienBeam"
+    AlienBeam = "UFOKnife"
 }
 
 -- 📌 Remote for crates
